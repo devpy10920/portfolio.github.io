@@ -14,11 +14,11 @@ times.addEventListener('click',function(){
 });
 */
 
-function myfun(){
+/*function myfun(){
 	var showhide = document.getElementById('mobile-nav');
 	if (showhide.style.display === "block") {
 		showhide.style.display = "none";
 	}else{
 		showhide.style.display = "block";
 	}
-}
+}*/
