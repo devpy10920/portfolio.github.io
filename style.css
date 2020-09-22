@@ -523,6 +523,7 @@ footer .footer-socials a img{
 	height: 100%;
 	padding: 2rem;
 	padding-top: 3rem;
+	transform: translateX(-100%);
 }
 
 .times{
