@@ -498,7 +498,7 @@ footer .footer-socials a img{
 	position: relative;
 }
 
-/*.hamberger{
+.hamberger{
 	position: absolute;
 	top: 40px;
 	right: 40px;
@@ -549,7 +549,6 @@ footer .footer-socials a img{
 	text-decoration: none;
 	font-size: 1.5rem;
 }
-*/
 
 @media (max-width: 1024px){
 	header .main-nav{
