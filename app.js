@@ -1,4 +1,4 @@
-/*$(document).ready(function(){
+$(document).ready(function(){
 let hamberger = document.querySelector('.hamberger');
 let times = document.querySelector('.times');
 let mobileNav = document.querySelector('.mobile-nav');
@@ -12,7 +12,7 @@ times.addEventListener('click',function(){
 });
 
 });
-*/
+
 
 /*function myfun(){
 	var showhide = document.getElementById('mobile-nav');
